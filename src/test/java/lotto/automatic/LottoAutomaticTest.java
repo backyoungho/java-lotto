@@ -31,6 +31,7 @@ public class LottoAutomaticTest {
         list.add(1);
         list.add(3);
 
+
         int count=0;
 
         for(int i=0; i<6; i++) {
